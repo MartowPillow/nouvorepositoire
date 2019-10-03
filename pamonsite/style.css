@@ -1,0 +1,17 @@
+a {
+	color: red;
+}
+body {
+	
+	background-color: yellow;
+	cursor: url('a.png'), pointer;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+p {
+	
+	color: green;
+}
